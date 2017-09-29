@@ -1,12 +1,12 @@
 {
   "name": "mean-application",
   "version": "1.0.0",
-  "description": "edureka! Mean Application",
+  "description": "Mean application created for Edureka final assignment of node js",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "edureka",
+  "author": "Vishal",
   "license": "MIT",
   "dependencies": {
     "body-parser": "1.15.0",
